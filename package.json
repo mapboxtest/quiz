@@ -1,5 +1,5 @@
 {
-  "homepage": "https://pozharitskiy.github.io/quiz/",
+  "homepage": "https://mapboxtest.github.io/quiz/",
   "name": "quiz",
   "version": "0.1.0",
   "dependencies": {
@@ -37,7 +37,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^1.7.0",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "prettier": "^1.19.1"
   }
 }
